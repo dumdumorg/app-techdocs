@@ -1,5 +1,5 @@
-site_name: 'App Techdocs'
-site_description: 'Documentation for Fake App Techdocs'
+site_name: 'App Techdocs11'
+site_description: 'Documentation for Fake App Techdocs111'
 
 plugins:
   - techdocs-core
