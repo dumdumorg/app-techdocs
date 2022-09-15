@@ -4,9 +4,8 @@ metadata:
   name: app-techdocs
   description: An example of a Backstage application.
   # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
+  annotations:
+    backstage.io/techdocs-ref: dir:./docs
 spec:
   type: website
   owner: john@example.com
